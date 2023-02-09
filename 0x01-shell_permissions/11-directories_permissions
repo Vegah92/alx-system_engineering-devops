@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 111 directory_11
+sudo chmod 711 ./
