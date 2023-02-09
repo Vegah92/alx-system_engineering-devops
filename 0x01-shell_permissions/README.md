@@ -6,3 +6,4 @@
 # give different rights to group and other users.
 # change rights to hello file
 #number 10 to change to other rights
+# activating executing rights in a directory
