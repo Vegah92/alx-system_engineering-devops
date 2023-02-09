@@ -7,4 +7,5 @@
 #create a new directory
 # move a hile from one directory to another
 #Deleting Betty
-# deleting first directory
+# deleting first director
+#going back to the previous directory
