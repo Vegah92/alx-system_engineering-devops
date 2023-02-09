@@ -5,3 +5,4 @@
 # display all content and hiden files with dot
 # print files with anonymous tag
 #create a new directory
+# move a hile from one directory to another
