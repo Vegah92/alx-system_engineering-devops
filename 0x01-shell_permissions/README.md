@@ -5,3 +5,4 @@
 # Activate executing rights to hello
 # give different rights to group and other users.
 # change rights to hello file
+#number 10 to change to other rights
