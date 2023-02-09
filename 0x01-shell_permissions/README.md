@@ -2,3 +2,4 @@
 # print user name at ther terminal
 # print User names
 #changenuser of a file.
+# Activate executing rights to hello
