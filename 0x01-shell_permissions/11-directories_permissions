@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 711 ./
+find -type d | xargs sudo chmod 755 
