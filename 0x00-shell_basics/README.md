@@ -11,3 +11,4 @@
 #going back to the previous directory
 #write a script that lista all file even with hiden files.
 #copy all html files to parent directoery
+# created a simbolic link
