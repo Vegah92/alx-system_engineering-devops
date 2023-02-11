@@ -10,3 +10,4 @@
 #creat directory my-di and spercify rights
 #chane name of the group owner
 # change vincent and staff
+# change owner and grouto vincent and staff
