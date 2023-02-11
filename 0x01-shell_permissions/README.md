@@ -9,3 +9,4 @@
 # activating executing rights in a directory
 #creat directory my-di and spercify rights
 #chane name of the group owner
+# change vincent and staff
