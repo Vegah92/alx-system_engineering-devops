@@ -7,3 +7,4 @@
 #3 line of the iacta file
 #sending content of the present directory to a file
 #dublicating the last line in the file iacta
+# deleting all .js files in the directory
