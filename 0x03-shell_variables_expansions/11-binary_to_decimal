@@ -1,2 +1,2 @@
 #!/bin/bash
-printf ("%x\n" $BINARY)
+export NUM="printf "%x\n" $BINARYi
